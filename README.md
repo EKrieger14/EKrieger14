@@ -34,7 +34,7 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 
 ### 📈 GitHub Stats:
 
-[[EKrieger14's GitHub stats](https://github-readme-stats.vercel.app/api?username=EKrieger14&show_icons=true&theme=radical)](https://github.com/EKrieger14/github-readme-stats)
+[![EKrieger14's GitHub stats](https://github-readme-stats.vercel.app/api?username=EKrieger14&show_icons=true&theme=radical)](https://github.com/EKrieger14/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
