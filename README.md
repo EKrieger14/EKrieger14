@@ -8,16 +8,12 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a Full Stack Web Developer based in St. Louis, MO. I have a passion for software and love to create innovative solutions.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on an expense tracker application
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 📫 How to reach me: ethankrieg10@gmail.com
+- ⚡ Fun fact: I love taking ice baths!
 
 ### 🛠️ Languages and Tools:
 
@@ -31,13 +27,5 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 ### 📈 GitHub Stats:
 
 [![EKrieger14's GitHub stats](https://github-readme-stats.vercel.app/api?username=EKrieger14&show_icons=true&theme=radical)](https://github.com/EKrieger14/github-readme-stats)
-
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
 
 ---
