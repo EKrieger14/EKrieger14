@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
-</div>
-
 <h1 align="center">Hi there, I'm Ethan Krieg 👋</h1>
 
 <p align="center">
