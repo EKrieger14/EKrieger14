@@ -12,7 +12,6 @@ I am a Full Stack Web Developer based in St. Louis, MO. I have a passion for pro
 
 - 🔭 I’m currently working on an expense tracker application
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 📫 How to reach me: ethankrieg10@gmail.com
 - ⚡ Fun fact: I love taking ice baths!
 
 ### 🛠️ Languages and Tools:
