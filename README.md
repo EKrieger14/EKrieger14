@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Full Stack Web Developer based in St. Louis, MO. I have a passion for software and love to create innovative solutions.
+I am a Full Stack Web Developer based in St. Louis, MO. I have a passion for problem solving and love to create innovative solutions.
 
 - 🔭 I’m currently working on an expense tracker application
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
