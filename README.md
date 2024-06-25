@@ -16,11 +16,9 @@ I am a Full Stack Web Developer based in St. Louis, MO. I have a passion for pro
 
 ### 🛠️ Languages and Tools:
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-[Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!-- Add or remove languages and tools as per your skills -->
 
 ### 📈 GitHub Stats:
